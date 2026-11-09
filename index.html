@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="uz">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="color-scheme" content="light dark" />
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='8' fill='%237000ff'/><path d='M7 20h13v-8h4l3 4v4h-2' stroke='white' stroke-width='2.4' fill='none' stroke-linejoin='round'/><circle cx='11' cy='22' r='2.2' fill='white'/><circle cx='22' cy='22' r='2.2' fill='white'/></svg>" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <title>Yuk CRM — Jadvallar</title>
+    <script>
+      // Set the theme before first paint — no white flash in dark mode
+      ;(function () {
+        var mode = 'system'
+        try { mode = (JSON.parse(localStorage.getItem('crm-prefs')) || {}).theme || 'system' } catch (e) {}
+        var dark = mode === 'dark' || (mode === 'system' && window.matchMedia('(prefers-color-scheme: dark)').matches)
+        document.documentElement.classList.toggle('dark', dark)
+      })()
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

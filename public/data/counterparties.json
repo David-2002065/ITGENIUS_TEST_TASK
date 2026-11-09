@@ -1,0 +1,743 @@
+[
+  {
+    "key": "c1",
+    "name": "Namuna Logistik 1 MChJ",
+    "kind": "legal",
+    "roles": [
+      "vehicle_owner",
+      "carrier"
+    ],
+    "phone": "+998900000001",
+    "inn": "300000001",
+    "pinfl": null,
+    "rows": 11,
+    "since": "2025-04-26",
+    "has_duplicates": false
+  },
+  {
+    "key": "c2",
+    "name": "Namuna Logistik 2 MChJ",
+    "kind": "legal",
+    "roles": [
+      "vehicle_owner",
+      "carrier",
+      "forwarder"
+    ],
+    "phone": "+998900000002",
+    "inn": "300000002",
+    "pinfl": null,
+    "rows": 1,
+    "since": "2025-02-26",
+    "has_duplicates": false
+  },
+  {
+    "key": "c3",
+    "name": "Eldor Misolov",
+    "kind": "physical",
+    "roles": [
+      "cargo_owner"
+    ],
+    "phone": "+998900000003",
+    "inn": null,
+    "pinfl": "30000000000003",
+    "rows": 4,
+    "since": "2022-10-11",
+    "has_duplicates": false
+  },
+  {
+    "key": "c4",
+    "name": "Namuna Logistik 4 MChJ",
+    "kind": "legal",
+    "roles": [
+      "cargo_owner",
+      "driver"
+    ],
+    "phone": "+998900000004",
+    "inn": "300000004",
+    "pinfl": null,
+    "rows": 10,
+    "since": "2022-05-24",
+    "has_duplicates": false
+  },
+  {
+    "key": "c5",
+    "name": "Namuna Logistik 5 MChJ",
+    "kind": "legal",
+    "roles": [
+      "cargo_owner",
+      "driver",
+      "forwarder"
+    ],
+    "phone": "+998900000005",
+    "inn": "300000005",
+    "pinfl": null,
+    "rows": 1,
+    "since": "2026-11-03",
+    "has_duplicates": false
+  },
+  {
+    "key": "c6",
+    "name": "Hasan Demov",
+    "kind": "physical",
+    "roles": [
+      "forwarder"
+    ],
+    "phone": "+998900000006",
+    "inn": null,
+    "pinfl": "30000000000006",
+    "rows": 2,
+    "since": "2025-12-15",
+    "has_duplicates": false
+  },
+  {
+    "key": "c7",
+    "name": "Namuna Logistik 7 MChJ",
+    "kind": "legal",
+    "roles": [
+      "cargo_owner",
+      "vehicle_owner"
+    ],
+    "phone": "+998900000007",
+    "inn": "300000007",
+    "pinfl": null,
+    "rows": 8,
+    "since": "2023-08-06",
+    "has_duplicates": false
+  },
+  {
+    "key": "c8",
+    "name": "Namuna Logistik 8 MChJ",
+    "kind": "legal",
+    "roles": [
+      "cargo_owner"
+    ],
+    "phone": "+998900000008",
+    "inn": "300000008",
+    "pinfl": null,
+    "rows": 12,
+    "since": "2023-10-08",
+    "has_duplicates": true
+  },
+  {
+    "key": "c9",
+    "name": "Karim Soxtaev",
+    "kind": "physical",
+    "roles": [
+      "cargo_owner",
+      "vehicle_owner"
+    ],
+    "phone": "+998900000009",
+    "inn": null,
+    "pinfl": "30000000000009",
+    "rows": 6,
+    "since": "2026-02-17",
+    "has_duplicates": false
+  },
+  {
+    "key": "c10",
+    "name": "Namuna Logistik 10 MChJ",
+    "kind": "legal",
+    "roles": [
+      "vehicle_owner"
+    ],
+    "phone": null,
+    "inn": "300000010",
+    "pinfl": null,
+    "rows": 3,
+    "since": "2023-07-03",
+    "has_duplicates": false
+  },
+  {
+    "key": "c11",
+    "name": "Namuna Logistik 11 MChJ",
+    "kind": "legal",
+    "roles": [
+      "carrier",
+      "vehicle_owner",
+      "cargo_owner"
+    ],
+    "phone": "+998900000011",
+    "inn": "300000011",
+    "pinfl": null,
+    "rows": 9,
+    "since": "2024-03-14",
+    "has_duplicates": false
+  },
+  {
+    "key": "c12",
+    "name": "Davron Sinov",
+    "kind": "physical",
+    "roles": [
+      "carrier"
+    ],
+    "phone": "+998900000012",
+    "inn": null,
+    "pinfl": "30000000000012",
+    "rows": 5,
+    "since": "2026-02-07",
+    "has_duplicates": false
+  },
+  {
+    "key": "c13",
+    "name": "Namuna Logistik 13 MChJ",
+    "kind": "legal",
+    "roles": [
+      "vehicle_owner"
+    ],
+    "phone": "+998900000013",
+    "inn": "300000013",
+    "pinfl": null,
+    "rows": 8,
+    "since": "2025-03-08",
+    "has_duplicates": false
+  },
+  {
+    "key": "c14",
+    "name": "Namuna Logistik 14 MChJ",
+    "kind": "legal",
+    "roles": [],
+    "phone": "+998900000014",
+    "inn": "300000014",
+    "pinfl": null,
+    "rows": 8,
+    "since": "2026-11-08",
+    "has_duplicates": false
+  },
+  {
+    "key": "c15",
+    "name": "Gulom Tajribaev",
+    "kind": "physical",
+    "roles": [
+      "driver",
+      "carrier",
+      "forwarder"
+    ],
+    "phone": "+998900000015",
+    "inn": null,
+    "pinfl": "30000000000015",
+    "rows": 5,
+    "since": "2024-10-09",
+    "has_duplicates": false,
+    "extra": {
+      "note": "VIP",
+      "score": 4.5
+    }
+  },
+  {
+    "key": "c16",
+    "name": "Namuna Logistik 16 MChJ",
+    "kind": "legal",
+    "roles": [
+      "cargo_owner",
+      "driver"
+    ],
+    "phone": "+998900000016",
+    "inn": "300000016",
+    "pinfl": null,
+    "rows": 4,
+    "since": "2025-04-06",
+    "has_duplicates": true
+  },
+  {
+    "key": "c17",
+    "name": "Namuna Logistik 17 MChJ",
+    "kind": "legal",
+    "roles": [
+      "forwarder"
+    ],
+    "phone": "+998900000017",
+    "inn": "300000017",
+    "pinfl": null,
+    "rows": 3,
+    "since": "2024-10-07",
+    "has_duplicates": false
+  },
+  {
+    "key": "c18",
+    "name": "Jasur Fiktivov",
+    "kind": "physical",
+    "roles": [
+      "carrier",
+      "vehicle_owner"
+    ],
+    "phone": "+998900000018",
+    "inn": null,
+    "pinfl": "30000000000018",
+    "rows": 5,
+    "since": "2023-09-17",
+    "has_duplicates": false
+  },
+  {
+    "key": "c19",
+    "name": "Namuna Logistik 19 MChJ",
+    "kind": "legal",
+    "roles": [
+      "carrier"
+    ],
+    "phone": "+998900000019",
+    "inn": "300000019",
+    "pinfl": null,
+    "rows": 11,
+    "since": "2025-01-04",
+    "has_duplicates": false
+  },
+  {
+    "key": "c20",
+    "name": "Namuna Logistik 20 MChJ",
+    "kind": "legal",
+    "roles": [
+      "vehicle_owner"
+    ],
+    "phone": null,
+    "inn": "300000020",
+    "pinfl": null,
+    "rows": 4,
+    "since": "2025-06-02",
+    "has_duplicates": false
+  },
+  {
+    "key": "c21",
+    "name": "Bobur Namunaev",
+    "kind": "physical",
+    "roles": [
+      "forwarder",
+      "carrier"
+    ],
+    "phone": "+998900000021",
+    "inn": null,
+    "pinfl": "30000000000021",
+    "rows": 1,
+    "has_duplicates": false
+  },
+  {
+    "key": "c22",
+    "name": "Namuna Logistik 22 MChJ",
+    "kind": "legal",
+    "roles": [
+      "forwarder",
+      "carrier",
+      "driver"
+    ],
+    "phone": "+998900000022",
+    "inn": "300000022",
+    "pinfl": null,
+    "rows": 9,
+    "since": "2023-08-20",
+    "has_duplicates": false
+  },
+  {
+    "key": "c23",
+    "name": "Namuna Logistik 23 MChJ",
+    "kind": "legal",
+    "roles": [
+      "carrier",
+      "driver"
+    ],
+    "phone": "+998900000023",
+    "inn": "300000023",
+    "pinfl": null,
+    "rows": 11,
+    "since": "2026-12-20",
+    "has_duplicates": false
+  },
+  {
+    "key": "c24",
+    "name": "Farhod Probov",
+    "kind": "physical",
+    "roles": [
+      "forwarder",
+      "carrier"
+    ],
+    "phone": "+998900000024",
+    "inn": null,
+    "pinfl": "30000000000024",
+    "rows": 6,
+    "since": "2024-03-02",
+    "has_duplicates": true
+  },
+  {
+    "key": "c25",
+    "name": "Namuna Logistik 25 MChJ",
+    "kind": "legal",
+    "roles": [
+      "cargo_owner"
+    ],
+    "phone": "+998900000025",
+    "inn": "300000025",
+    "pinfl": null,
+    "rows": 1,
+    "since": "2026-12-21",
+    "has_duplicates": false
+  },
+  {
+    "key": "c26",
+    "name": "Namuna Logistik 26 MChJ",
+    "kind": "legal",
+    "roles": [
+      "carrier"
+    ],
+    "phone": "+998900000026",
+    "inn": "300000026",
+    "pinfl": null,
+    "rows": 6,
+    "since": "2025-11-12",
+    "has_duplicates": false
+  },
+  {
+    "key": "c27",
+    "name": "Ilhom Kodov",
+    "kind": "physical",
+    "roles": [
+      "driver"
+    ],
+    "phone": "+998900000027",
+    "inn": null,
+    "pinfl": "30000000000027",
+    "rows": 5,
+    "since": "2022-04-02",
+    "has_duplicates": false
+  },
+  {
+    "key": "c28",
+    "name": "Namuna Logistik 28 MChJ",
+    "kind": "legal",
+    "roles": [],
+    "phone": "+998900000028",
+    "inn": "300000028",
+    "pinfl": null,
+    "rows": 2,
+    "since": "2025-02-26",
+    "has_duplicates": false
+  },
+  {
+    "key": "c29",
+    "name": "Namuna Logistik 29 MChJ",
+    "kind": "legal",
+    "roles": [
+      "driver",
+      "forwarder"
+    ],
+    "phone": "+998900000029",
+    "inn": "300000029",
+    "pinfl": null,
+    "rows": 11,
+    "since": "2026-02-21",
+    "has_duplicates": false
+  },
+  {
+    "key": "c30",
+    "name": "Akmal Testov",
+    "kind": "physical",
+    "roles": [
+      "vehicle_owner"
+    ],
+    "phone": null,
+    "inn": null,
+    "pinfl": "30000000000030",
+    "rows": 12,
+    "since": "2024-07-10",
+    "has_duplicates": false,
+    "extra": {
+      "note": "VIP",
+      "score": 4.5
+    }
+  },
+  {
+    "key": "c31",
+    "name": "Namuna Logistik 31 MChJ",
+    "kind": "legal",
+    "roles": [
+      "cargo_owner",
+      "vehicle_owner",
+      "carrier"
+    ],
+    "phone": "+998900000031",
+    "inn": "300000031",
+    "pinfl": null,
+    "rows": 5,
+    "since": "2026-06-14",
+    "has_duplicates": false
+  },
+  {
+    "key": "c32",
+    "name": "Namuna Logistik 32 MChJ",
+    "kind": "legal",
+    "roles": [
+      "carrier",
+      "cargo_owner"
+    ],
+    "phone": "+998900000032",
+    "inn": "300000032",
+    "pinfl": null,
+    "rows": 11,
+    "since": "2023-07-24",
+    "has_duplicates": true
+  },
+  {
+    "key": "c33",
+    "name": "Eldor Misolov",
+    "kind": "physical",
+    "roles": [
+      "forwarder",
+      "carrier"
+    ],
+    "phone": "+998900000033",
+    "inn": null,
+    "pinfl": "30000000000033",
+    "rows": 7,
+    "since": "2023-07-04",
+    "has_duplicates": false
+  },
+  {
+    "key": "c34",
+    "name": "Namuna Logistik 34 MChJ",
+    "kind": "legal",
+    "roles": [
+      "vehicle_owner"
+    ],
+    "phone": "+998900000034",
+    "inn": "300000034",
+    "pinfl": null,
+    "rows": 10,
+    "since": "2024-08-25",
+    "has_duplicates": false
+  },
+  {
+    "key": "c35",
+    "name": "Namuna Logistik 35 MChJ",
+    "kind": "legal",
+    "roles": [
+      "forwarder"
+    ],
+    "phone": "+998900000035",
+    "inn": "300000035",
+    "pinfl": null,
+    "rows": 1,
+    "since": "2022-09-05",
+    "has_duplicates": false
+  },
+  {
+    "key": "c36",
+    "name": "Hasan Demov",
+    "kind": "physical",
+    "roles": [
+      "vehicle_owner",
+      "carrier",
+      "cargo_owner"
+    ],
+    "phone": "+998900000036",
+    "inn": null,
+    "pinfl": "30000000000036",
+    "rows": 10,
+    "since": "2024-12-17",
+    "has_duplicates": false
+  },
+  {
+    "key": "c37",
+    "name": "Namuna Logistik 37 MChJ",
+    "kind": "legal",
+    "roles": [
+      "forwarder"
+    ],
+    "phone": "+998900000037",
+    "inn": "300000037",
+    "pinfl": null,
+    "rows": 6,
+    "since": "2024-03-17",
+    "has_duplicates": false
+  },
+  {
+    "key": "c38",
+    "name": "Namuna Logistik 38 MChJ",
+    "kind": "legal",
+    "roles": [
+      "carrier"
+    ],
+    "phone": "+998900000038",
+    "inn": "300000038",
+    "pinfl": null,
+    "rows": 2,
+    "since": "2025-08-25",
+    "has_duplicates": false
+  },
+  {
+    "key": "c39",
+    "name": "Karim Soxtaev",
+    "kind": "physical",
+    "roles": [
+      "cargo_owner"
+    ],
+    "phone": "+998900000039",
+    "inn": null,
+    "pinfl": "30000000000039",
+    "rows": 3,
+    "since": "2022-08-11",
+    "has_duplicates": false
+  },
+  {
+    "key": "c40",
+    "name": "Namuna Logistik 40 MChJ",
+    "kind": "legal",
+    "roles": [
+      "driver"
+    ],
+    "phone": null,
+    "inn": "300000040",
+    "pinfl": null,
+    "rows": 11,
+    "since": "2025-02-23",
+    "has_duplicates": true
+  },
+  {
+    "key": "c41",
+    "name": "Namuna Logistik 41 MChJ",
+    "kind": "legal",
+    "roles": [
+      "forwarder",
+      "driver",
+      "cargo_owner"
+    ],
+    "phone": "+998900000041",
+    "inn": "300000041",
+    "pinfl": null,
+    "rows": 7,
+    "since": "2026-04-27",
+    "has_duplicates": false
+  },
+  {
+    "key": "c42",
+    "name": "Davron Sinov",
+    "kind": "physical",
+    "roles": [],
+    "phone": "+998900000042",
+    "inn": null,
+    "pinfl": "30000000000042",
+    "rows": 1,
+    "has_duplicates": false
+  },
+  {
+    "key": "c43",
+    "name": "Namuna Logistik 43 MChJ",
+    "kind": "legal",
+    "roles": [
+      "cargo_owner",
+      "carrier"
+    ],
+    "phone": "+998900000043",
+    "inn": "300000043",
+    "pinfl": null,
+    "rows": 3,
+    "since": "2023-12-27",
+    "has_duplicates": false
+  },
+  {
+    "key": "c44",
+    "name": "Namuna Logistik 44 MChJ",
+    "kind": "legal",
+    "roles": [
+      "carrier"
+    ],
+    "phone": "+998900000044",
+    "inn": "300000044",
+    "pinfl": null,
+    "rows": 9,
+    "since": "2022-11-27",
+    "has_duplicates": false
+  },
+  {
+    "key": "c45",
+    "name": "Gulom Tajribaev",
+    "kind": "physical",
+    "roles": [
+      "carrier",
+      "vehicle_owner"
+    ],
+    "phone": "+998900000045",
+    "inn": null,
+    "pinfl": "30000000000045",
+    "rows": 10,
+    "since": "2025-09-28",
+    "has_duplicates": false,
+    "extra": {
+      "note": "VIP",
+      "score": 4.5
+    }
+  },
+  {
+    "key": "c46",
+    "name": "Namuna Logistik 46 MChJ",
+    "kind": "legal",
+    "roles": [
+      "cargo_owner",
+      "vehicle_owner",
+      "forwarder"
+    ],
+    "phone": "+998900000046",
+    "inn": "300000046",
+    "pinfl": null,
+    "rows": 10,
+    "since": "2023-07-13",
+    "has_duplicates": false
+  },
+  {
+    "key": "c47",
+    "name": "Namuna Logistik 47 MChJ",
+    "kind": "legal",
+    "roles": [
+      "cargo_owner",
+      "vehicle_owner",
+      "driver"
+    ],
+    "phone": "+998900000047",
+    "inn": "300000047",
+    "pinfl": null,
+    "rows": 8,
+    "since": "2023-01-01",
+    "has_duplicates": false
+  },
+  {
+    "key": "c48",
+    "name": "Jasur Fiktivov",
+    "kind": "physical",
+    "roles": [
+      "vehicle_owner",
+      "driver",
+      "carrier"
+    ],
+    "phone": "+998900000048",
+    "inn": null,
+    "pinfl": "30000000000048",
+    "rows": 8,
+    "since": "2026-08-27",
+    "has_duplicates": true
+  },
+  {
+    "key": "c49",
+    "name": "Namuna Logistik 49 MChJ",
+    "kind": "legal",
+    "roles": [
+      "vehicle_owner"
+    ],
+    "phone": "+998900000049",
+    "inn": "300000049",
+    "pinfl": null,
+    "rows": 7,
+    "since": "2022-02-05",
+    "has_duplicates": false
+  },
+  {
+    "key": "c50",
+    "name": "Namuna Logistik 50 MChJ",
+    "kind": "legal",
+    "roles": [
+      "vehicle_owner",
+      "cargo_owner"
+    ],
+    "phone": null,
+    "inn": "300000050",
+    "pinfl": null,
+    "rows": 2,
+    "since": "2025-09-17",
+    "has_duplicates": false
+  }
+]

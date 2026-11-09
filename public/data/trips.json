@@ -1,0 +1,1765 @@
+{
+  "items": [
+    {
+      "id": "T-1001",
+      "cargo": {
+        "name": "Maishiy texnika",
+        "weight_t": 16.0
+      },
+      "route": {
+        "from": "Shymkent",
+        "to": "Buxoro",
+        "from_country": "KZ",
+        "to_country": "UZ"
+      },
+      "driver": {
+        "id": "d1",
+        "name": "Bobur Namunaev",
+        "phone": "+998900000001"
+      },
+      "vehicle": {
+        "plate": "01 B 101 AA",
+        "model": "Volvo FH",
+        "trailer_plate": "01 T 201 TT"
+      },
+      "status": "DISPUTED",
+      "agreed_price": 11000000,
+      "agreed_currency": "UZS",
+      "created_at": "2026-10-07T06:00:00Z",
+      "tags": [
+        "ADR",
+        "muzlatilgan",
+        "TIR"
+      ]
+    },
+    {
+      "id": "T-1002",
+      "cargo": {
+        "name": "Maishiy texnika",
+        "weight_t": 2.4
+      },
+      "route": {
+        "from": "Samarqand",
+        "to": "Urumchi",
+        "from_country": "UZ",
+        "to_country": "CN"
+      },
+      "driver": {
+        "id": "d2",
+        "name": "Davron Sinov",
+        "phone": "+998900000002"
+      },
+      "vehicle": {
+        "plate": "01 C 102 AA",
+        "model": "Volvo FH",
+        "trailer_plate": "01 T 202 TT"
+      },
+      "status": "IN_TRANSIT",
+      "agreed_price": 4400,
+      "agreed_currency": "USD",
+      "created_at": "2026-08-08T06:15:00Z",
+      "tags": [
+        "ADR",
+        "shoshilinch"
+      ]
+    },
+    {
+      "id": "T-1003",
+      "cargo": {
+        "name": "Mebel",
+        "weight_t": 13.9
+      },
+      "route": {
+        "from": "Urumchi",
+        "to": "Samarqand",
+        "from_country": "CN",
+        "to_country": "UZ"
+      },
+      "driver": {
+        "id": "d3",
+        "name": "Eldor Misolov",
+        "phone": "+998900000003"
+      },
+      "vehicle": {
+        "plate": "01 D 103 AA",
+        "model": "MAN TGX",
+        "trailer_plate": "01 T 203 TT"
+      },
+      "status": "PENDING",
+      "agreed_price": 17000000,
+      "agreed_currency": "UZS",
+      "created_at": "2026-10-23T07:00:00Z",
+      "tags": [
+        "ADR"
+      ]
+    },
+    {
+      "id": "T-1004",
+      "cargo": {
+        "name": "Kimyoviy o'g'it",
+        "weight_t": 11.7
+      },
+      "route": {
+        "from": "Urumchi",
+        "to": "Bishkek",
+        "from_country": "CN",
+        "to_country": "KG"
+      },
+      "driver": {
+        "id": "d4",
+        "name": "Farhod Probov",
+        "phone": "+998900000004"
+      },
+      "vehicle": {
+        "plate": "01 E 104 AA",
+        "model": "Kamaz 5490",
+        "trailer_plate": "01 T 204 TT"
+      },
+      "status": "DELIVERED",
+      "agreed_price": 24000000,
+      "agreed_currency": "UZS",
+      "created_at": "2026-10-25T09:00:00Z",
+      "tags": [
+        "TIR",
+        "ADR"
+      ]
+    },
+    {
+      "id": "T-1005",
+      "cargo": {
+        "name": "Mebel",
+        "weight_t": 15.0
+      },
+      "route": {
+        "from": "Shymkent",
+        "to": "Moskva",
+        "from_country": "KZ",
+        "to_country": "RU"
+      },
+      "driver": {
+        "id": "d5",
+        "name": "Gulom Tajribaev",
+        "phone": "+998900000005"
+      },
+      "vehicle": {
+        "plate": "01 F 105 AA",
+        "model": "Volvo FH",
+        "trailer_plate": "01 T 205 TT"
+      },
+      "status": "PENDING",
+      "agreed_price": 37000000,
+      "agreed_currency": "UZS",
+      "created_at": "2026-09-05T20:45:00Z",
+      "tags": [
+        "muzlatilgan",
+        "TIR",
+        "xavfli"
+      ]
+    },
+    {
+      "id": "T-1006",
+      "cargo": {
+        "name": "Kimyoviy o'g'it",
+        "weight_t": 17.0
+      },
+      "route": {
+        "from": "Dushanbe",
+        "to": "Shymkent",
+        "from_country": "TJ",
+        "to_country": "KZ"
+      },
+      "driver": {
+        "id": "d6",
+        "name": "Hasan Demov",
+        "phone": "+998900000006"
+      },
+      "vehicle": {
+        "plate": "01 G 106 AA",
+        "model": "Kamaz 5490",
+        "trailer_plate": "01 T 206 TT"
+      },
+      "status": "DISPUTED",
+      "agreed_price": 34000000,
+      "agreed_currency": "UZS",
+      "created_at": "2026-09-16T17:00:00Z",
+      "tags": []
+    },
+    {
+      "id": "T-1007",
+      "cargo": {
+        "name": "Mebel",
+        "weight_t": 17.5
+      },
+      "route": {
+        "from": "Almaty",
+        "to": "Moskva",
+        "from_country": "KZ",
+        "to_country": "RU"
+      },
+      "driver": null,
+      "vehicle": {
+        "plate": "01 H 107 AA",
+        "model": "Scania R",
+        "trailer_plate": "01 T 207 TT"
+      },
+      "status": "PENDING",
+      "agreed_price": 34000000,
+      "agreed_currency": "UZS",
+      "created_at": "2026-10-04T13:00:00Z",
+      "tags": [
+        "xavfli"
+      ]
+    },
+    {
+      "id": "T-1008",
+      "cargo": {
+        "name": "Maishiy texnika",
+        "weight_t": 10.0
+      },
+      "route": {
+        "from": "Buxoro",
+        "to": "Namangan",
+        "from_country": "UZ",
+        "to_country": "UZ"
+      },
+      "driver": {
+        "id": "d8",
+        "name": "Jasur Fiktivov",
+        "phone": "+998900000008"
+      },
+      "vehicle": {
+        "plate": "01 I 108 AA",
+        "model": "Kamaz 5490",
+        "trailer_plate": "01 T 208 TT"
+      },
+      "status": "PENDING",
+      "agreed_price": 3600,
+      "agreed_currency": "USD",
+      "created_at": "2026-10-09T20:15:00Z",
+      "tags": [
+        "TIR",
+        "xavfli",
+        "ADR"
+      ]
+    },
+    {
+      "id": "T-1009",
+      "cargo": {
+        "name": "Maishiy texnika",
+        "weight_t": 23.0
+      },
+      "route": {
+        "from": "Bishkek",
+        "to": "Shymkent",
+        "from_country": "KG"
+      },
+      "driver": {
+        "id": "d9",
+        "name": "Karim Soxtaev",
+        "phone": "+998900000009"
+      },
+      "vehicle": {
+        "plate": "01 J 109 AA",
+        "model": "MAN TGX",
+        "trailer_plate": "01 T 209 TT"
+      },
+      "status": "PENDING",
+      "agreed_price": 16000000,
+      "agreed_currency": "UZS",
+      "created_at": "2026-10-08T06:45:00Z",
+      "tags": [
+        "xavfli"
+      ]
+    },
+    {
+      "id": "T-1010",
+      "cargo": {
+        "name": "Qurilish materiallari",
+        "weight_t": 10.6
+      },
+      "route": {
+        "from": "Almaty",
+        "to": "Toshkent",
+        "from_country": "KZ",
+        "to_country": "UZ"
+      },
+      "driver": {
+        "id": "d0",
+        "name": "Akmal Testov",
+        "phone": "+998900000000"
+      },
+      "vehicle": {
+        "plate": "01 K 110 AA",
+        "model": "Scania R",
+        "trailer_plate": "01 T 210 TT"
+      },
+      "status": "DISPUTED",
+      "agreed_price": 25000000,
+      "agreed_currency": "UZS",
+      "created_at": "2026-09-28T18:45:00Z",
+      "tags": [
+        "ADR",
+        "TIR",
+        "muzlatilgan"
+      ]
+    },
+    {
+      "id": "T-1011",
+      "cargo": {
+        "name": "Paxta",
+        "weight_t": 5.4
+      },
+      "route": {
+        "from": "Moskva",
+        "to": "Bishkek",
+        "from_country": "RU",
+        "to_country": "KG"
+      },
+      "driver": {
+        "id": "d1",
+        "name": "Bobur Namunaev",
+        "phone": "+998900000001"
+      },
+      "vehicle": {
+        "plate": "01 L 111 AA",
+        "model": "MAN TGX",
+        "trailer_plate": "01 T 211 TT"
+      },
+      "status": "CANCELLED",
+      "agreed_price": null,
+      "agreed_currency": null,
+      "created_at": "2026-10-02T07:00:00Z",
+      "tags": [
+        "TIR"
+      ]
+    },
+    {
+      "id": "T-1012",
+      "cargo": {
+        "name": "Paxta",
+        "weight_t": 2.6
+      },
+      "route": {
+        "from": "Samarqand",
+        "to": "Shymkent",
+        "from_country": "UZ",
+        "to_country": "KZ"
+      },
+      "driver": {
+        "id": "d2",
+        "name": "Davron Sinov",
+        "phone": "+998900000002"
+      },
+      "vehicle": {
+        "plate": "01 M 112 AA",
+        "model": "MAN TGX",
+        "trailer_plate": "01 T 212 TT"
+      },
+      "status": "DISPUTED",
+      "agreed_price": 1700,
+      "agreed_currency": "USD",
+      "created_at": "2026-09-20T11:45:00Z",
+      "tags": []
+    },
+    {
+      "id": "T-1013",
+      "cargo": {
+        "name": "Metall",
+        "weight_t": 12.0
+      },
+      "route": {
+        "from": "Samarqand",
+        "to": "Moskva",
+        "from_country": "UZ",
+        "to_country": "RU"
+      },
+      "driver": {
+        "id": "d3",
+        "name": "Eldor Misolov",
+        "phone": "+998900000003"
+      },
+      "status": "PENDING",
+      "agreed_price": 1400,
+      "agreed_currency": "USD",
+      "created_at": "2026-10-09T13:15:00Z",
+      "tags": []
+    },
+    {
+      "id": "T-1014",
+      "cargo": {
+        "name": "Kimyoviy o'g'it",
+        "weight_t": 4.4
+      },
+      "route": {
+        "from": "Namangan",
+        "to": "Urumchi",
+        "from_country": "UZ",
+        "to_country": "CN"
+      },
+      "driver": null,
+      "vehicle": {
+        "plate": "01 O 114 AA",
+        "model": "Volvo FH",
+        "trailer_plate": "01 T 214 TT"
+      },
+      "status": "DISPUTED",
+      "agreed_price": 24000000,
+      "agreed_currency": "UZS",
+      "created_at": "2026-10-28T10:30:00Z",
+      "tags": [
+        "xavfli"
+      ]
+    },
+    {
+      "id": "T-1015",
+      "cargo": {
+        "name": "Kimyoviy o'g'it",
+        "weight_t": 15.6
+      },
+      "route": {
+        "from": "Namangan",
+        "to": "Urumchi",
+        "from_country": "UZ",
+        "to_country": "CN"
+      },
+      "driver": {
+        "id": "d5",
+        "name": "Gulom Tajribaev",
+        "phone": "+998900000005"
+      },
+      "vehicle": {
+        "plate": "01 P 115 AA",
+        "model": "MAN TGX",
+        "trailer_plate": "01 T 215 TT"
+      },
+      "status": "IN_TRANSIT",
+      "agreed_price": 30000000,
+      "agreed_currency": "UZS",
+      "created_at": "2026-08-17T13:30:00Z",
+      "tags": []
+    },
+    {
+      "id": "T-1016",
+      "cargo": {
+        "name": "Metall",
+        "weight_t": 7.0
+      },
+      "route": {
+        "from": "Toshkent",
+        "to": "Almaty",
+        "from_country": "UZ",
+        "to_country": "KZ"
+      },
+      "driver": {
+        "id": "d6",
+        "name": "Hasan Demov",
+        "phone": "+998900000006"
+      },
+      "vehicle": {
+        "plate": "01 Q 116 AA",
+        "model": "Scania R",
+        "trailer_plate": "01 T 216 TT"
+      },
+      "status": "CANCELLED",
+      "agreed_price": 27000000,
+      "agreed_currency": "UZS",
+      "created_at": "2026-08-04T09:45:00Z",
+      "tags": [
+        "xavfli"
+      ]
+    },
+    {
+      "id": "T-1017",
+      "cargo": {
+        "name": "Paxta",
+        "weight_t": 12.0
+      },
+      "route": {
+        "from": "Namangan",
+        "to": "Moskva",
+        "from_country": "UZ",
+        "to_country": "RU"
+      },
+      "driver": {
+        "id": "d7",
+        "name": "Ilhom Kodov",
+        "phone": "+998900000007"
+      },
+      "vehicle": {
+        "plate": "01 R 117 AA",
+        "model": "Scania R",
+        "trailer_plate": "01 T 217 TT"
+      },
+      "status": "PENDING",
+      "agreed_price": 12000000,
+      "agreed_currency": "UZS",
+      "created_at": "26.10.2026",
+      "tags": []
+    },
+    {
+      "id": "T-1018",
+      "cargo": {
+        "name": "Maishiy texnika",
+        "weight_t": 18.1
+      },
+      "route": {
+        "from": "Bishkek",
+        "to": "Moskva",
+        "from_country": "KG"
+      },
+      "driver": {
+        "id": "d8",
+        "name": "Jasur Fiktivov",
+        "phone": "+998900000008"
+      },
+      "vehicle": {
+        "plate": "01 S 118 AA",
+        "model": "Volvo FH",
+        "trailer_plate": "01 T 218 TT"
+      },
+      "status": "IN_TRANSIT",
+      "agreed_price": 15000000,
+      "agreed_currency": "UZS",
+      "created_at": "2026-08-19T20:45:00Z",
+      "tags": [
+        "TIR"
+      ]
+    },
+    {
+      "id": "T-1019",
+      "cargo": {
+        "name": "Kimyoviy o'g'it",
+        "weight_t": 4.6
+      },
+      "route": {
+        "from": "Dushanbe",
+        "to": "Moskva",
+        "from_country": "TJ",
+        "to_country": "RU"
+      },
+      "driver": {
+        "id": "d9",
+        "name": "Karim Soxtaev",
+        "phone": "+998900000009"
+      },
+      "vehicle": {
+        "plate": "01 T 119 AA",
+        "model": "MAN TGX",
+        "trailer_plate": "01 T 219 TT"
+      },
+      "status": "PENDING",
+      "agreed_price": 5000000,
+      "agreed_currency": "UZS",
+      "created_at": "2026-10-24T20:15:00Z",
+      "tags": [
+        "shoshilinch",
+        "TIR",
+        "muzlatilgan"
+      ],
+      "completed_at": "2026-10-30T10:00:00Z"
+    },
+    {
+      "id": "T-1020",
+      "cargo": {
+        "name": "Mebel",
+        "weight_t": 12.5
+      },
+      "route": {
+        "from": "Almaty",
+        "to": "Namangan",
+        "from_country": "KZ",
+        "to_country": "UZ"
+      },
+      "driver": {
+        "id": "d0",
+        "name": "Akmal Testov",
+        "phone": "+998900000000"
+      },
+      "vehicle": {
+        "plate": "01 A 120 AA",
+        "model": "Scania R",
+        "trailer_plate": "01 T 220 TT"
+      },
+      "status": "DELIVERED",
+      "agreed_price": 39000000,
+      "agreed_currency": "UZS",
+      "created_at": "2026-08-24T11:45:00Z",
+      "tags": [
+        "TIR",
+        "shoshilinch",
+        "xavfli"
+      ]
+    },
+    {
+      "id": "T-1021",
+      "cargo": {
+        "name": "Paxta",
+        "weight_t": 21.1
+      },
+      "route": {
+        "from": "Buxoro",
+        "to": "Urumchi",
+        "from_country": "UZ",
+        "to_country": "CN"
+      },
+      "driver": null,
+      "vehicle": {
+        "plate": "01 B 121 AA",
+        "model": "MAN TGX",
+        "trailer_plate": "01 T 221 TT"
+      },
+      "status": "DISPUTED",
+      "agreed_price": 5000000,
+      "agreed_currency": "UZS",
+      "created_at": "2026-08-05T13:00:00Z",
+      "tags": []
+    },
+    {
+      "id": "T-1022",
+      "cargo": {
+        "name": "Metall",
+        "weight_t": 19.0
+      },
+      "route": {
+        "from": "Shymkent",
+        "to": "Urumchi",
+        "from_country": "KZ",
+        "to_country": "CN"
+      },
+      "driver": {
+        "id": "d2",
+        "name": "Davron Sinov",
+        "phone": "+998900000002"
+      },
+      "vehicle": {
+        "plate": "01 C 122 AA",
+        "model": "Volvo FH",
+        "trailer_plate": "01 T 222 TT"
+      },
+      "status": "DISPUTED",
+      "agreed_price": null,
+      "agreed_currency": null,
+      "created_at": "2026-09-02T18:00:00Z",
+      "tags": [
+        "TIR",
+        "muzlatilgan",
+        "ADR"
+      ]
+    },
+    {
+      "id": "T-1023",
+      "cargo": {
+        "name": "Meva-sabzavot",
+        "weight_t": 16.9
+      },
+      "route": {
+        "from": "Moskva",
+        "to": "Shymkent",
+        "from_country": "RU",
+        "to_country": "KZ"
+      },
+      "driver": {
+        "id": "d3",
+        "name": "Eldor Misolov",
+        "phone": "+998900000003"
+      },
+      "vehicle": {
+        "plate": "01 D 123 AA",
+        "model": "Kamaz 5490",
+        "trailer_plate": "01 T 223 TT"
+      },
+      "status": "ARCHIVED_V2",
+      "agreed_price": 5900,
+      "agreed_currency": "USD",
+      "created_at": "2026-10-08T17:30:00Z",
+      "tags": [
+        "ADR"
+      ]
+    },
+    {
+      "id": "T-1024",
+      "cargo": {
+        "name": "Un",
+        "weight_t": 10.0
+      },
+      "route": {
+        "from": "Buxoro",
+        "to": "Bishkek",
+        "from_country": "UZ",
+        "to_country": "KG"
+      },
+      "driver": {
+        "id": "d4",
+        "name": "Farhod Probov",
+        "phone": "+998900000004"
+      },
+      "vehicle": {
+        "plate": "01 E 124 AA",
+        "model": "Scania R",
+        "trailer_plate": "01 T 224 TT"
+      },
+      "status": "PENDING",
+      "agreed_price": 20000000,
+      "agreed_currency": "UZS",
+      "created_at": "2026-08-22T10:00:00Z",
+      "tags": [
+        "xavfli"
+      ]
+    },
+    {
+      "id": "T-1025",
+      "cargo": {
+        "name": "Qurilish materiallari",
+        "weight_t": 23.3
+      },
+      "route": {
+        "from": "Buxoro",
+        "to": "Almaty",
+        "from_country": "UZ",
+        "to_country": "KZ"
+      },
+      "driver": {
+        "id": "d5",
+        "name": "Gulom Tajribaev",
+        "phone": "+998900000005"
+      },
+      "vehicle": {
+        "plate": "01 F 125 AA",
+        "model": "MAN TGX",
+        "trailer_plate": "01 T 225 TT"
+      },
+      "status": "PENDING",
+      "agreed_price": 30000000,
+      "agreed_currency": "UZS",
+      "created_at": "2026-10-27T09:15:00Z",
+      "tags": [
+        "TIR",
+        "ADR",
+        "shoshilinch"
+      ]
+    },
+    {
+      "id": "T-1026",
+      "cargo": {
+        "name": "Kimyoviy o'g'it",
+        "weight_t": 8.3
+      },
+      "route": {
+        "from": "Bishkek",
+        "to": "Namangan",
+        "from_country": "KG",
+        "to_country": "UZ"
+      },
+      "driver": {
+        "id": "d6",
+        "name": "Hasan Demov",
+        "phone": "+998900000006"
+      },
+      "status": "PENDING",
+      "agreed_price": 4300,
+      "agreed_currency": "USD",
+      "created_at": "2026-09-23T06:45:00Z",
+      "tags": [
+        "TIR",
+        "xavfli"
+      ]
+    },
+    {
+      "id": "T-1027",
+      "cargo": {
+        "name": "Un",
+        "weight_t": 23.7
+      },
+      "route": {
+        "from": "Urumchi",
+        "to": "Samarqand",
+        "from_country": "CN"
+      },
+      "driver": {
+        "id": "d7",
+        "name": "Ilhom Kodov",
+        "phone": "+998900000007"
+      },
+      "vehicle": {
+        "plate": "01 H 127 AA",
+        "model": "MAN TGX",
+        "trailer_plate": "01 T 227 TT"
+      },
+      "status": "PENDING",
+      "agreed_price": 2400,
+      "agreed_currency": "USD",
+      "created_at": "2026-08-25T08:30:00Z",
+      "tags": [
+        "ADR"
+      ]
+    },
+    {
+      "id": "T-1028",
+      "cargo": {
+        "name": "Qurilish materiallari",
+        "weight_t": 13.3
+      },
+      "route": {
+        "from": "Almaty",
+        "to": "Bishkek",
+        "from_country": "KZ",
+        "to_country": "KG"
+      },
+      "driver": null,
+      "vehicle": {
+        "plate": "01 I 128 AA",
+        "model": "Kamaz 5490",
+        "trailer_plate": "01 T 228 TT"
+      },
+      "status": "DELIVERED",
+      "agreed_price": 10000000,
+      "agreed_currency": "UZS",
+      "created_at": "2026-10-06T12:00:00Z",
+      "tags": [
+        "muzlatilgan",
+        "TIR"
+      ]
+    },
+    {
+      "id": "T-1029",
+      "cargo": {
+        "name": "Meva-sabzavot",
+        "weight_t": "12,5"
+      },
+      "route": {
+        "from": "Almaty",
+        "to": "Samarqand",
+        "from_country": "KZ",
+        "to_country": "UZ"
+      },
+      "driver": {
+        "id": "d9",
+        "name": "Karim Soxtaev",
+        "phone": "+998900000009"
+      },
+      "vehicle": {
+        "plate": "01 J 129 AA",
+        "model": "Volvo FH",
+        "trailer_plate": "01 T 229 TT"
+      },
+      "status": "CANCELLED",
+      "agreed_price": 2900,
+      "agreed_currency": "USD",
+      "created_at": "2026-09-20T08:00:00Z",
+      "tags": [
+        "muzlatilgan"
+      ]
+    },
+    {
+      "id": "T-1030",
+      "cargo": {
+        "name": "Paxta",
+        "weight_t": 5.2
+      },
+      "route": {
+        "from": "Buxoro",
+        "to": "Almaty",
+        "from_country": "UZ",
+        "to_country": "KZ"
+      },
+      "driver": {
+        "id": "d0",
+        "name": "Akmal Testov",
+        "phone": "+998900000000"
+      },
+      "vehicle": {
+        "plate": "01 K 130 AA",
+        "model": "Scania R",
+        "trailer_plate": "01 T 230 TT"
+      },
+      "status": "DELIVERED",
+      "agreed_price": 38000000,
+      "agreed_currency": "UZS",
+      "created_at": "2026-09-15T14:15:00Z",
+      "tags": [
+        "xavfli",
+        "muzlatilgan"
+      ]
+    },
+    {
+      "id": "T-1031",
+      "cargo": {
+        "name": "Paxta",
+        "weight_t": 1.4
+      },
+      "route": {
+        "from": "Almaty",
+        "to": "Toshkent",
+        "from_country": "KZ",
+        "to_country": "UZ"
+      },
+      "driver": {
+        "id": "d1",
+        "name": "Bobur Namunaev",
+        "phone": "+998900000001"
+      },
+      "vehicle": {
+        "plate": "01 L 131 AA",
+        "model": "MAN TGX",
+        "trailer_plate": "01 T 231 TT"
+      },
+      "status": "DISPUTED",
+      "agreed_price": 2300,
+      "agreed_currency": "USD",
+      "created_at": "2026-08-22T19:45:00Z",
+      "tags": [
+        "TIR",
+        "ADR",
+        "xavfli"
+      ]
+    },
+    {
+      "id": "T-1032",
+      "cargo": {
+        "name": "Meva-sabzavot",
+        "weight_t": 8.9
+      },
+      "route": {
+        "from": "Almaty",
+        "to": "Namangan",
+        "from_country": "KZ",
+        "to_country": "UZ"
+      },
+      "driver": {
+        "id": "d2",
+        "name": "Davron Sinov",
+        "phone": "+998900000002"
+      },
+      "vehicle": {
+        "plate": "01 M 132 AA",
+        "model": "MAN TGX",
+        "trailer_plate": "01 T 232 TT"
+      },
+      "status": "CANCELLED",
+      "agreed_price": 27000000,
+      "agreed_currency": "UZS",
+      "created_at": "2026-08-03T16:30:00Z",
+      "tags": [
+        "shoshilinch",
+        "muzlatilgan",
+        "ADR"
+      ]
+    },
+    {
+      "id": "T-1033",
+      "cargo": {
+        "name": "Mebel",
+        "weight_t": 14.8
+      },
+      "route": {
+        "from": "Bishkek",
+        "to": "Urumchi",
+        "from_country": "KG",
+        "to_country": "CN"
+      },
+      "driver": {
+        "id": "d3",
+        "name": "Eldor Misolov",
+        "phone": "+998900000003"
+      },
+      "vehicle": {
+        "plate": "01 N 133 AA",
+        "model": "Scania R",
+        "trailer_plate": "01 T 233 TT"
+      },
+      "status": "PENDING",
+      "agreed_price": null,
+      "agreed_currency": null,
+      "created_at": "2026-09-15T06:30:00Z",
+      "tags": [
+        "xavfli",
+        "TIR"
+      ]
+    },
+    {
+      "id": "T-1034",
+      "cargo": {
+        "name": "Mebel",
+        "weight_t": 6.0
+      },
+      "route": {
+        "from": "Namangan",
+        "to": "Toshkent",
+        "from_country": "UZ",
+        "to_country": "UZ"
+      },
+      "driver": {
+        "id": "d4",
+        "name": "Farhod Probov",
+        "phone": "+998900000004"
+      },
+      "vehicle": {
+        "plate": "01 O 134 AA",
+        "model": "MAN TGX",
+        "trailer_plate": "01 T 234 TT"
+      },
+      "status": "PENDING",
+      "agreed_price": 26000000,
+      "agreed_currency": "UZS",
+      "created_at": "25.08.2026",
+      "tags": [
+        "TIR"
+      ]
+    },
+    {
+      "id": "T-1035",
+      "cargo": {
+        "name": "Un",
+        "weight_t": 4.3
+      },
+      "route": {
+        "from": "Samarqand",
+        "to": "Almaty",
+        "from_country": "UZ",
+        "to_country": "KZ"
+      },
+      "driver": null,
+      "vehicle": {
+        "plate": "01 P 135 AA",
+        "model": "Volvo FH",
+        "trailer_plate": "01 T 235 TT"
+      },
+      "status": "CANCELLED",
+      "agreed_price": 2700,
+      "agreed_currency": "USD",
+      "created_at": "2026-10-08T07:15:00Z",
+      "tags": [
+        "xavfli",
+        "ADR",
+        "muzlatilgan"
+      ]
+    },
+    {
+      "id": "T-1036",
+      "cargo": {
+        "name": "Paxta",
+        "weight_t": 20.0
+      },
+      "route": {
+        "from": "Almaty",
+        "to": "Buxoro",
+        "from_country": "KZ"
+      },
+      "driver": {
+        "id": "d6",
+        "name": "Hasan Demov",
+        "phone": "+998900000006"
+      },
+      "vehicle": {
+        "plate": "01 Q 136 AA",
+        "model": "Kamaz 5490",
+        "trailer_plate": "01 T 236 TT"
+      },
+      "status": "DISPUTED",
+      "agreed_price": 13000000,
+      "agreed_currency": "UZS",
+      "created_at": "2026-10-19T18:15:00Z",
+      "tags": []
+    },
+    {
+      "id": "T-1037",
+      "cargo": {
+        "name": "Qurilish materiallari",
+        "weight_t": 15.7
+      },
+      "route": {
+        "from": "Toshkent",
+        "to": "Dushanbe",
+        "from_country": "UZ",
+        "to_country": "TJ"
+      },
+      "driver": {
+        "id": "d7",
+        "name": "Ilhom Kodov",
+        "phone": "+998900000007"
+      },
+      "vehicle": {
+        "plate": "01 R 137 AA",
+        "model": "Volvo FH",
+        "trailer_plate": "01 T 237 TT"
+      },
+      "status": "CANCELLED",
+      "agreed_price": 33000000,
+      "agreed_currency": "UZS",
+      "created_at": "2026-10-01T16:15:00Z",
+      "tags": [
+        "xavfli",
+        "muzlatilgan",
+        "shoshilinch"
+      ]
+    },
+    {
+      "id": "T-1038",
+      "cargo": {
+        "name": "Un",
+        "weight_t": 16.2
+      },
+      "route": {
+        "from": "Samarqand",
+        "to": "Urumchi",
+        "from_country": "UZ",
+        "to_country": "CN"
+      },
+      "driver": {
+        "id": "d8",
+        "name": "Jasur Fiktivov",
+        "phone": "+998900000008"
+      },
+      "vehicle": {
+        "plate": "01 S 138 AA",
+        "model": "Volvo FH",
+        "trailer_plate": "01 T 238 TT"
+      },
+      "status": "CANCELLED",
+      "agreed_price": 21000000,
+      "agreed_currency": "UZS",
+      "created_at": "2026-09-08T17:15:00Z",
+      "tags": [
+        "ADR"
+      ],
+      "completed_at": "2026-10-30T10:00:00Z"
+    },
+    {
+      "id": "T-1039",
+      "cargo": {
+        "name": "Un",
+        "weight_t": 12.0
+      },
+      "route": {
+        "from": "Moskva",
+        "to": "Bishkek",
+        "from_country": "RU",
+        "to_country": "KG"
+      },
+      "driver": {
+        "id": "d9",
+        "name": "Karim Soxtaev",
+        "phone": "+998900000009"
+      },
+      "status": "PENDING",
+      "agreed_price": 17000000,
+      "agreed_currency": "UZS",
+      "created_at": "2026-09-09T16:30:00Z",
+      "tags": [
+        "muzlatilgan"
+      ]
+    },
+    {
+      "id": "T-1040",
+      "cargo": {
+        "name": "Metall",
+        "weight_t": 7.2
+      },
+      "route": {
+        "from": "Moskva",
+        "to": "Toshkent",
+        "from_country": "RU",
+        "to_country": "UZ"
+      },
+      "driver": {
+        "id": "d0",
+        "name": "Akmal Testov",
+        "phone": "+998900000000"
+      },
+      "vehicle": {
+        "plate": "01 A 140 AA",
+        "model": "Volvo FH",
+        "trailer_plate": "01 T 240 TT"
+      },
+      "status": "IN_TRANSIT",
+      "agreed_price": 2600,
+      "agreed_currency": "USD",
+      "created_at": "2026-09-15T13:00:00Z",
+      "tags": [
+        "xavfli"
+      ]
+    },
+    {
+      "id": "T-1041",
+      "cargo": {
+        "name": "Paxta",
+        "weight_t": 7.7
+      },
+      "route": {
+        "from": "Samarqand",
+        "to": "Moskva",
+        "from_country": "UZ",
+        "to_country": "RU"
+      },
+      "driver": {
+        "id": "d1",
+        "name": "Bobur Namunaev",
+        "phone": "+998900000001"
+      },
+      "vehicle": {
+        "plate": "01 B 141 AA",
+        "model": "Volvo FH",
+        "trailer_plate": "01 T 241 TT"
+      },
+      "status": "DISPUTED",
+      "agreed_price": 2500,
+      "agreed_currency": "USD",
+      "created_at": "2026-08-07T07:00:00Z",
+      "tags": [
+        "TIR"
+      ]
+    },
+    {
+      "id": "T-1042",
+      "cargo": {
+        "name": "Qurilish materiallari",
+        "weight_t": 14.9
+      },
+      "route": {
+        "from": "Almaty",
+        "to": "Shymkent",
+        "from_country": "KZ",
+        "to_country": "KZ"
+      },
+      "driver": null,
+      "vehicle": {
+        "plate": "01 C 142 AA",
+        "model": "Scania R",
+        "trailer_plate": "01 T 242 TT"
+      },
+      "status": "PENDING",
+      "agreed_price": 2200,
+      "agreed_currency": "USD",
+      "created_at": "2026-09-13T06:15:00Z",
+      "tags": []
+    },
+    {
+      "id": "T-1043",
+      "cargo": {
+        "name": "Maishiy texnika",
+        "weight_t": 7.9
+      },
+      "route": {
+        "from": "Moskva",
+        "to": "Dushanbe",
+        "from_country": "RU",
+        "to_country": "TJ"
+      },
+      "driver": {
+        "id": "d3",
+        "name": "Eldor Misolov",
+        "phone": "+998900000003"
+      },
+      "vehicle": {
+        "plate": "01 D 143 AA",
+        "model": "MAN TGX",
+        "trailer_plate": "01 T 243 TT"
+      },
+      "status": "CANCELLED",
+      "agreed_price": 3200,
+      "agreed_currency": "USD",
+      "created_at": "2026-08-27T11:00:00Z",
+      "tags": [
+        "xavfli",
+        "ADR"
+      ]
+    },
+    {
+      "id": "T-1044",
+      "cargo": {
+        "name": "Paxta",
+        "weight_t": 21.7
+      },
+      "route": {
+        "from": "Samarqand",
+        "to": "Namangan",
+        "from_country": "UZ",
+        "to_country": "UZ"
+      },
+      "driver": {
+        "id": "d4",
+        "name": "Farhod Probov",
+        "phone": "+998900000004"
+      },
+      "vehicle": {
+        "plate": "01 E 144 AA",
+        "model": "Scania R",
+        "trailer_plate": "01 T 244 TT"
+      },
+      "status": "DELIVERED",
+      "agreed_price": null,
+      "agreed_currency": null,
+      "created_at": "2026-09-28T15:00:00Z",
+      "tags": [
+        "ADR",
+        "xavfli"
+      ]
+    },
+    {
+      "id": "T-1045",
+      "cargo": {
+        "name": "Un",
+        "weight_t": 2.2
+      },
+      "route": {
+        "from": "Toshkent",
+        "to": "Almaty",
+        "from_country": "UZ"
+      },
+      "driver": {
+        "id": "d5",
+        "name": "Gulom Tajribaev",
+        "phone": "+998900000005"
+      },
+      "vehicle": {
+        "plate": "01 F 145 AA",
+        "model": "Scania R",
+        "trailer_plate": "01 T 245 TT"
+      },
+      "status": "IN_TRANSIT",
+      "agreed_price": 2500,
+      "agreed_currency": "USD",
+      "created_at": "2026-10-11T09:30:00Z",
+      "tags": [
+        "muzlatilgan",
+        "ADR",
+        "xavfli"
+      ]
+    },
+    {
+      "id": "T-1046",
+      "cargo": {
+        "name": "Un",
+        "weight_t": 2.1
+      },
+      "route": {
+        "from": "Urumchi",
+        "to": "Namangan",
+        "from_country": "CN",
+        "to_country": "UZ"
+      },
+      "driver": {
+        "id": "d6",
+        "name": "Hasan Demov",
+        "phone": "+998900000006"
+      },
+      "vehicle": {
+        "plate": "01 G 146 AA",
+        "model": "Kamaz 5490",
+        "trailer_plate": "01 T 246 TT"
+      },
+      "status": "ARCHIVED_V2",
+      "agreed_price": 4900,
+      "agreed_currency": "USD",
+      "created_at": "2026-09-02T20:15:00Z",
+      "tags": [
+        "ADR"
+      ]
+    },
+    {
+      "id": "T-1047",
+      "cargo": {
+        "name": "Mebel",
+        "weight_t": 7.8
+      },
+      "route": {
+        "from": "Bishkek",
+        "to": "Shymkent",
+        "from_country": "KG",
+        "to_country": "KZ"
+      },
+      "driver": {
+        "id": "d7",
+        "name": "Ilhom Kodov",
+        "phone": "+998900000007"
+      },
+      "vehicle": {
+        "plate": "01 H 147 AA",
+        "model": "Scania R",
+        "trailer_plate": "01 T 247 TT"
+      },
+      "status": "CANCELLED",
+      "agreed_price": 2700,
+      "agreed_currency": "USD",
+      "created_at": "2026-10-22T12:00:00Z",
+      "tags": [
+        "shoshilinch"
+      ]
+    },
+    {
+      "id": "T-1048",
+      "cargo": {
+        "name": "Metall",
+        "weight_t": 13.7
+      },
+      "route": {
+        "from": "Samarqand",
+        "to": "Namangan",
+        "from_country": "UZ",
+        "to_country": "UZ"
+      },
+      "driver": {
+        "id": "d8",
+        "name": "Jasur Fiktivov",
+        "phone": "+998900000008"
+      },
+      "vehicle": {
+        "plate": "01 I 148 AA",
+        "model": "Kamaz 5490",
+        "trailer_plate": "01 T 248 TT"
+      },
+      "status": "DELIVERED",
+      "agreed_price": 33000000,
+      "agreed_currency": "UZS",
+      "created_at": "2026-10-07T09:00:00Z",
+      "tags": [
+        "xavfli"
+      ]
+    },
+    {
+      "id": "T-1049",
+      "cargo": {
+        "name": "Kimyoviy o'g'it",
+        "weight_t": 6.5
+      },
+      "route": {
+        "from": "Urumchi",
+        "to": "Samarqand",
+        "from_country": "CN",
+        "to_country": "UZ"
+      },
+      "driver": null,
+      "vehicle": {
+        "plate": "01 J 149 AA",
+        "model": "Scania R",
+        "trailer_plate": "01 T 249 TT"
+      },
+      "status": "DISPUTED",
+      "agreed_price": 900,
+      "agreed_currency": "USD",
+      "created_at": "2026-09-14T17:15:00Z",
+      "tags": [
+        "xavfli",
+        "TIR",
+        "muzlatilgan"
+      ]
+    },
+    {
+      "id": "T-1050",
+      "cargo": {
+        "name": "Kimyoviy o'g'it",
+        "weight_t": 3.9
+      },
+      "route": {
+        "from": "Moskva",
+        "to": "Almaty",
+        "from_country": "RU",
+        "to_country": "KZ"
+      },
+      "driver": {
+        "id": "d0",
+        "name": "Akmal Testov",
+        "phone": "+998900000000"
+      },
+      "vehicle": {
+        "plate": "01 K 150 AA",
+        "model": "MAN TGX",
+        "trailer_plate": "01 T 250 TT"
+      },
+      "status": "PENDING",
+      "agreed_price": 2300,
+      "agreed_currency": "USD",
+      "created_at": "2026-09-21T13:45:00Z",
+      "tags": [
+        "muzlatilgan",
+        "shoshilinch"
+      ]
+    },
+    {
+      "id": "T-1051",
+      "cargo": {
+        "name": "Metall",
+        "weight_t": 23.3
+      },
+      "route": {
+        "from": "Toshkent",
+        "to": "Bishkek",
+        "from_country": "UZ",
+        "to_country": "KG"
+      },
+      "driver": {
+        "id": "d1",
+        "name": "Bobur Namunaev",
+        "phone": "+998900000001"
+      },
+      "vehicle": {
+        "plate": "01 L 151 AA",
+        "model": "Kamaz 5490",
+        "trailer_plate": "01 T 251 TT"
+      },
+      "status": "PENDING",
+      "agreed_price": 3300,
+      "agreed_currency": "USD",
+      "created_at": "05.10.2026",
+      "tags": [
+        "shoshilinch"
+      ]
+    },
+    {
+      "id": "T-1052",
+      "cargo": {
+        "name": "Un",
+        "weight_t": 13.7
+      },
+      "route": {
+        "from": "Samarqand",
+        "to": "Moskva",
+        "from_country": "UZ",
+        "to_country": "RU"
+      },
+      "driver": {
+        "id": "d2",
+        "name": "Davron Sinov",
+        "phone": "+998900000002"
+      },
+      "status": "PENDING",
+      "agreed_price": 13000000,
+      "agreed_currency": "UZS",
+      "created_at": "2026-10-23T10:15:00Z",
+      "tags": [
+        "TIR",
+        "ADR"
+      ]
+    },
+    {
+      "id": "T-1053",
+      "cargo": {
+        "name": "Un",
+        "weight_t": 7.9
+      },
+      "route": {
+        "from": "Samarqand",
+        "to": "Dushanbe",
+        "from_country": "UZ",
+        "to_country": "TJ"
+      },
+      "driver": {
+        "id": "d3",
+        "name": "Eldor Misolov",
+        "phone": "+998900000003"
+      },
+      "vehicle": {
+        "plate": "01 N 153 AA",
+        "model": "MAN TGX",
+        "trailer_plate": "01 T 253 TT"
+      },
+      "status": "CANCELLED",
+      "agreed_price": 21000000,
+      "agreed_currency": "UZS",
+      "created_at": "2026-08-18T10:45:00Z",
+      "tags": [
+        "xavfli",
+        "shoshilinch"
+      ]
+    },
+    {
+      "id": "T-1054",
+      "cargo": {
+        "name": "Meva-sabzavot",
+        "weight_t": 13.6
+      },
+      "route": {
+        "from": "Moskva",
+        "to": "Urumchi",
+        "from_country": "RU"
+      },
+      "driver": {
+        "id": "d4",
+        "name": "Farhod Probov",
+        "phone": "+998900000004"
+      },
+      "vehicle": {
+        "plate": "01 O 154 AA",
+        "model": "Volvo FH",
+        "trailer_plate": "01 T 254 TT"
+      },
+      "status": "CANCELLED",
+      "agreed_price": 24000000,
+      "agreed_currency": "UZS",
+      "created_at": "2026-08-16T20:45:00Z",
+      "tags": []
+    },
+    {
+      "id": "T-1055",
+      "cargo": {
+        "name": "Maishiy texnika",
+        "weight_t": 22.3
+      },
+      "route": {
+        "from": "Almaty",
+        "to": "Namangan",
+        "from_country": "KZ",
+        "to_country": "UZ"
+      },
+      "driver": {
+        "id": "d5",
+        "name": "Gulom Tajribaev",
+        "phone": "+998900000005"
+      },
+      "vehicle": {
+        "plate": "01 P 155 AA",
+        "model": "MAN TGX",
+        "trailer_plate": "01 T 255 TT"
+      },
+      "status": "CANCELLED",
+      "agreed_price": null,
+      "agreed_currency": null,
+      "created_at": "2026-10-14T11:45:00Z",
+      "tags": [
+        "muzlatilgan"
+      ]
+    },
+    {
+      "id": "T-1056",
+      "cargo": {
+        "name": "Un",
+        "weight_t": 5.7
+      },
+      "route": {
+        "from": "Almaty",
+        "to": "Urumchi",
+        "from_country": "KZ",
+        "to_country": "CN"
+      },
+      "driver": null,
+      "vehicle": {
+        "plate": "01 Q 156 AA",
+        "model": "MAN TGX",
+        "trailer_plate": "01 T 256 TT"
+      },
+      "status": "DELIVERED",
+      "agreed_price": 2200,
+      "agreed_currency": "USD",
+      "created_at": "2026-08-09T18:30:00Z",
+      "tags": []
+    },
+    {
+      "id": "T-1057",
+      "cargo": {
+        "name": "Qurilish materiallari",
+        "weight_t": 21.6
+      },
+      "route": {
+        "from": "Dushanbe",
+        "to": "Moskva",
+        "from_country": "TJ",
+        "to_country": "RU"
+      },
+      "driver": {
+        "id": "d7",
+        "name": "Ilhom Kodov",
+        "phone": "+998900000007"
+      },
+      "vehicle": {
+        "plate": "01 R 157 AA",
+        "model": "Kamaz 5490",
+        "trailer_plate": "01 T 257 TT"
+      },
+      "status": "CANCELLED",
+      "agreed_price": 8000000,
+      "agreed_currency": "UZS",
+      "created_at": "2026-09-02T09:00:00Z",
+      "tags": [
+        "ADR"
+      ],
+      "completed_at": "2026-10-30T10:00:00Z"
+    },
+    {
+      "id": "T-1058",
+      "cargo": {
+        "name": "Qurilish materiallari",
+        "weight_t": "12,5"
+      },
+      "route": {
+        "from": "Toshkent",
+        "to": "Dushanbe",
+        "from_country": "UZ",
+        "to_country": "TJ"
+      },
+      "driver": {
+        "id": "d8",
+        "name": "Jasur Fiktivov",
+        "phone": "+998900000008"
+      },
+      "vehicle": {
+        "plate": "01 S 158 AA",
+        "model": "Scania R",
+        "trailer_plate": "01 T 258 TT"
+      },
+      "status": "PENDING",
+      "agreed_price": 1800,
+      "agreed_currency": "USD",
+      "created_at": "2026-08-06T16:45:00Z",
+      "tags": []
+    },
+    {
+      "id": "T-1059",
+      "cargo": {
+        "name": "Kimyoviy o'g'it",
+        "weight_t": 23.7
+      },
+      "route": {
+        "from": "Almaty",
+        "to": "Bishkek",
+        "from_country": "KZ",
+        "to_country": "KG"
+      },
+      "driver": {
+        "id": "d9",
+        "name": "Karim Soxtaev",
+        "phone": "+998900000009"
+      },
+      "vehicle": {
+        "plate": "01 T 159 AA",
+        "model": "Kamaz 5490",
+        "trailer_plate": "01 T 259 TT"
+      },
+      "status": "IN_TRANSIT",
+      "agreed_price": 11000000,
+      "agreed_currency": "UZS",
+      "created_at": "2026-09-03T11:45:00Z",
+      "tags": []
+    },
+    {
+      "id": "T-1060",
+      "cargo": {
+        "name": "Maishiy texnika",
+        "weight_t": 9.2
+      },
+      "route": {
+        "from": "Urumchi",
+        "to": "Namangan",
+        "from_country": "CN",
+        "to_country": "UZ"
+      },
+      "driver": {
+        "id": "d0",
+        "name": "Akmal Testov",
+        "phone": "+998900000000"
+      },
+      "vehicle": {
+        "plate": "01 A 160 AA",
+        "model": "Scania R",
+        "trailer_plate": "01 T 260 TT"
+      },
+      "status": "CANCELLED",
+      "agreed_price": 1100,
+      "agreed_currency": "USD",
+      "created_at": "2026-08-12T14:45:00Z",
+      "tags": [
+        "xavfli"
+      ]
+    }
+  ],
+  "total": 60
+}

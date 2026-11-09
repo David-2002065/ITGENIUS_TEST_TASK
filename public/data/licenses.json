@@ -1,0 +1,972 @@
+{
+  "data": {
+    "licenses": [
+      {
+        "id": "L1",
+        "series": "AB",
+        "number": "000001",
+        "owner": {
+          "name": "Namuna Trans 1",
+          "address": "Toshkent"
+        },
+        "vehicle": {
+          "plate": "01 B 101 AA",
+          "kind": "power",
+          "model": "MAN TGX"
+        },
+        "driver": {
+          "name": "Bobur Namunaev"
+        },
+        "valid_to": "2026-11-24",
+        "files": [
+          "stamp.png",
+          "scan1.pdf"
+        ],
+        "issuer": "Test agentligi"
+      },
+      {
+        "id": "L2",
+        "series": "EF",
+        "number": "000002",
+        "owner": {
+          "name": "Namuna Trans 2",
+          "address": null
+        },
+        "vehicle": {
+          "plate": "01 C 102 AA",
+          "kind": "power",
+          "model": "MAN TGX"
+        },
+        "driver": {
+          "name": "Davron Sinov"
+        },
+        "valid_to": "2026-01-28",
+        "files": [],
+        "issuer": "Test agentligi"
+      },
+      {
+        "id": "L3",
+        "series": "EF",
+        "number": "000003",
+        "owner": {
+          "name": "Namuna Trans 3",
+          "address": "Toshkent"
+        },
+        "vehicle": {
+          "plate": "01 D 103 AA",
+          "kind": "power",
+          "model": "MAN TGX"
+        },
+        "driver": {
+          "name": "Eldor Misolov"
+        },
+        "valid_to": "2026-10-16",
+        "files": [
+          "scan1.pdf",
+          "stamp.png"
+        ],
+        "issuer": "Test agentligi"
+      },
+      {
+        "id": "L4",
+        "series": "CD",
+        "number": "000004",
+        "owner": {
+          "name": "Namuna Trans 4",
+          "address": "Buxoro"
+        },
+        "vehicle": {
+          "plate": "01 E 104 AA",
+          "kind": "power",
+          "model": "Volvo FH"
+        },
+        "driver": {
+          "name": "Farhod Probov"
+        },
+        "valid_to": "2026-02-20",
+        "files": [
+          "scan2.pdf",
+          "scan1.pdf"
+        ],
+        "issuer": "Test agentligi"
+      },
+      {
+        "id": "L5",
+        "series": "EF",
+        "number": "000005",
+        "owner": {
+          "name": "Namuna Trans 5",
+          "address": null
+        },
+        "vehicle": {
+          "plate": "01 F 105 AA",
+          "kind": "power",
+          "model": "Schmitz"
+        },
+        "driver": null,
+        "valid_to": "2026-05-09",
+        "files": [
+          "scan2.pdf"
+        ],
+        "issuer": "Test agentligi"
+      },
+      {
+        "id": "L6",
+        "series": "AB",
+        "number": "000006",
+        "owner": {
+          "name": "Namuna Trans 6",
+          "address": "Samarqand"
+        },
+        "vehicle": {
+          "plate": "01 G 106 AA",
+          "kind": "power",
+          "model": "Volvo FH"
+        },
+        "driver": {
+          "name": "Hasan Demov"
+        },
+        "valid_to": "2026-06-06",
+        "files": [
+          "stamp.png",
+          "scan2.pdf"
+        ],
+        "issuer": "Test agentligi"
+      },
+      {
+        "id": "L7",
+        "series": "AB",
+        "number": "000007",
+        "owner": {
+          "name": "Namuna Trans 7",
+          "address": "Buxoro"
+        },
+        "vehicle": {
+          "plate": "01 H 107 AA",
+          "kind": "power",
+          "model": "Schmitz"
+        },
+        "driver": {
+          "name": "Ilhom Kodov"
+        },
+        "valid_to": "2026-07-02",
+        "files": [
+          "scan2.pdf",
+          "scan1.pdf"
+        ],
+        "issuer": "Test agentligi"
+      },
+      {
+        "id": "L8",
+        "series": "EF",
+        "number": "000008",
+        "owner": {
+          "name": "Namuna Trans 8",
+          "address": null
+        },
+        "vehicle": {
+          "plate": "01 I 108 AA",
+          "kind": "trailer",
+          "model": "Volvo FH"
+        },
+        "driver": {
+          "name": "Jasur Fiktivov"
+        },
+        "valid_to": "2026-05-13",
+        "files": [
+          "stamp.png",
+          "scan1.pdf"
+        ],
+        "issuer": "Test agentligi"
+      },
+      {
+        "id": "L9",
+        "series": "CD",
+        "number": "000009",
+        "owner": {
+          "name": "Namuna Trans 9",
+          "address": "Toshkent"
+        },
+        "vehicle": {
+          "plate": "01 J 109 AA",
+          "kind": "trailer",
+          "model": "MAN TGX"
+        },
+        "driver": {
+          "name": "Karim Soxtaev"
+        },
+        "valid_to": "2026-06-06",
+        "files": [],
+        "issuer": "Test agentligi"
+      },
+      {
+        "id": "L10",
+        "series": "EF",
+        "number": "000010",
+        "owner": {
+          "name": "Namuna Trans 10",
+          "address": "Buxoro"
+        },
+        "vehicle": {
+          "plate": "01 K 110 AA",
+          "kind": "trailer",
+          "model": "Schmitz"
+        },
+        "driver": null,
+        "valid_to": "2026-05-28",
+        "files": [
+          "stamp.png",
+          "scan1.pdf"
+        ],
+        "issuer": "Test agentligi"
+      },
+      {
+        "id": "L11",
+        "series": "AB",
+        "number": "000011",
+        "owner": {
+          "name": "Namuna Trans 11",
+          "address": "Samarqand"
+        },
+        "vehicle": {
+          "plate": "01 L 111 AA",
+          "kind": "power",
+          "model": "Volvo FH"
+        },
+        "driver": {
+          "name": "Bobur Namunaev"
+        },
+        "valid_to": "2026-12-20",
+        "files": [
+          "scan2.pdf",
+          "stamp.png",
+          "scan1.pdf"
+        ],
+        "issuer": "Test agentligi"
+      },
+      {
+        "id": "L12",
+        "series": "CD",
+        "number": "000012",
+        "owner": {
+          "name": "Namuna Trans 12",
+          "address": "Samarqand"
+        },
+        "vehicle": {
+          "plate": "01 M 112 AA",
+          "kind": "power",
+          "model": "MAN TGX"
+        },
+        "driver": {
+          "name": "Davron Sinov"
+        },
+        "valid_to": null,
+        "files": [],
+        "issuer": "Test agentligi"
+      },
+      {
+        "id": "L13",
+        "series": "CD",
+        "number": "000013",
+        "owner": {
+          "name": "Namuna Trans 13",
+          "address": "Buxoro"
+        },
+        "vehicle": {
+          "plate": "01 N 113 AA",
+          "kind": "power",
+          "model": "Schmitz"
+        },
+        "driver": {
+          "name": "Eldor Misolov"
+        },
+        "valid_to": "2026-10-12",
+        "files": [
+          "scan2.pdf"
+        ],
+        "issuer": "Test agentligi"
+      },
+      {
+        "id": "L14",
+        "series": "CD",
+        "number": "000014",
+        "owner": {
+          "name": "Namuna Trans 14",
+          "address": "Samarqand"
+        },
+        "vehicle": {
+          "plate": "01 O 114 AA",
+          "kind": "power",
+          "model": "Volvo FH"
+        },
+        "driver": {
+          "name": "Farhod Probov"
+        },
+        "valid_to": "2026-10-20",
+        "files": [
+          "scan1.pdf",
+          "stamp.png",
+          "scan2.pdf"
+        ],
+        "issuer": "Test agentligi"
+      },
+      {
+        "id": "L15",
+        "series": "AB",
+        "number": "000015",
+        "owner": {
+          "name": "Namuna Trans 15",
+          "address": "Samarqand"
+        },
+        "vehicle": {
+          "plate": "01 P 115 AA",
+          "kind": "trailer",
+          "model": "MAN TGX"
+        },
+        "driver": null,
+        "valid_to": "2027-01-03",
+        "files": [
+          "stamp.png"
+        ],
+        "issuer": "Test agentligi"
+      },
+      {
+        "id": "L16",
+        "series": "CD",
+        "number": "000016",
+        "owner": {
+          "name": "Namuna Trans 16",
+          "address": null
+        },
+        "vehicle": {
+          "plate": "01 Q 116 AA",
+          "kind": "trailer",
+          "model": "MAN TGX"
+        },
+        "driver": {
+          "name": "Hasan Demov"
+        },
+        "valid_to": "2027-01-02",
+        "files": null,
+        "issuer": "Test agentligi"
+      },
+      {
+        "id": "L17",
+        "series": "EF",
+        "number": "000017",
+        "owner": {
+          "name": "Namuna Trans 17",
+          "address": null
+        },
+        "vehicle": {
+          "plate": "01 R 117 AA",
+          "kind": "power",
+          "model": "MAN TGX"
+        },
+        "driver": {
+          "name": "Ilhom Kodov"
+        },
+        "valid_to": "2026-10-01",
+        "files": [],
+        "issuer": "Test agentligi"
+      },
+      {
+        "id": "L18",
+        "series": "EF",
+        "number": "000018",
+        "owner": {
+          "name": "Namuna Trans 18",
+          "address": "Toshkent"
+        },
+        "vehicle": {
+          "plate": "01 S 118 AA",
+          "kind": "trailer",
+          "model": "MAN TGX"
+        },
+        "driver": {
+          "name": "Jasur Fiktivov"
+        },
+        "valid_to": "2026-01-08",
+        "files": [
+          "scan1.pdf"
+        ]
+      },
+      {
+        "id": "L19",
+        "series": "AB",
+        "number": "000019",
+        "owner": {
+          "name": "Namuna Trans 19",
+          "address": "Toshkent"
+        },
+        "vehicle": {
+          "plate": "01 T 119 AA",
+          "kind": "power",
+          "model": "MAN TGX"
+        },
+        "driver": {
+          "name": "Karim Soxtaev"
+        },
+        "valid_to": "2027-01-14",
+        "files": [
+          "stamp.png"
+        ],
+        "issuer": "Test agentligi"
+      },
+      {
+        "id": "L20",
+        "series": "EF",
+        "number": "000020",
+        "owner": {
+          "name": "Namuna Trans 20",
+          "address": null
+        },
+        "vehicle": {
+          "plate": "01 A 120 AA",
+          "kind": "power",
+          "model": "Schmitz"
+        },
+        "driver": null,
+        "valid_to": "2026-10-10",
+        "files": [],
+        "issuer": "Test agentligi"
+      },
+      {
+        "id": "L21",
+        "series": "EF",
+        "number": "000021",
+        "owner": {
+          "name": "Namuna Trans 21",
+          "address": "Toshkent"
+        },
+        "vehicle": {
+          "plate": "01 B 121 AA",
+          "kind": "trailer",
+          "model": "Schmitz"
+        },
+        "driver": {
+          "name": "Bobur Namunaev"
+        },
+        "valid_to": "2026-05-18",
+        "files": [],
+        "issuer": "Test agentligi"
+      },
+      {
+        "id": "L22",
+        "series": "CD",
+        "number": "000022",
+        "owner": {
+          "name": "Namuna Trans 22",
+          "address": null
+        },
+        "vehicle": {
+          "plate": "01 C 122 AA",
+          "kind": "power",
+          "model": "Schmitz"
+        },
+        "driver": {
+          "name": "Davron Sinov"
+        },
+        "valid_to": "2026-07-21",
+        "files": [
+          "scan1.pdf",
+          "stamp.png",
+          "scan2.pdf"
+        ],
+        "issuer": "Test agentligi"
+      },
+      {
+        "id": "L23",
+        "series": "AB",
+        "number": "000023",
+        "owner": {
+          "name": "Namuna Trans 23",
+          "address": "Toshkent"
+        },
+        "vehicle": {
+          "plate": "01 D 123 AA",
+          "kind": "power",
+          "model": "Volvo FH"
+        },
+        "driver": {
+          "name": "Eldor Misolov"
+        },
+        "valid_to": "2026-05-24",
+        "files": [
+          "stamp.png",
+          "scan1.pdf"
+        ],
+        "issuer": "Test agentligi"
+      },
+      {
+        "id": "L24",
+        "series": "EF",
+        "number": "000024",
+        "owner": {
+          "name": "Namuna Trans 24",
+          "address": null
+        },
+        "vehicle": {
+          "plate": "01 E 124 AA",
+          "kind": "trailer",
+          "model": "Volvo FH"
+        },
+        "driver": {
+          "name": "Farhod Probov"
+        },
+        "valid_to": null,
+        "files": [
+          "scan1.pdf"
+        ],
+        "issuer": "Test agentligi"
+      },
+      {
+        "id": "L25",
+        "series": "AB",
+        "number": "000025",
+        "owner": {
+          "name": "Namuna Trans 25",
+          "address": "Samarqand"
+        },
+        "vehicle": {
+          "plate": "01 F 125 AA",
+          "kind": "trailer",
+          "model": "MAN TGX"
+        },
+        "driver": null,
+        "valid_to": "2026-09-27",
+        "files": [
+          "scan1.pdf"
+        ],
+        "issuer": "Test agentligi"
+      },
+      {
+        "id": "L26",
+        "series": "CD",
+        "number": "000026",
+        "owner": {
+          "name": "Namuna Trans 26",
+          "address": "Samarqand"
+        },
+        "vehicle": {
+          "plate": "01 G 126 AA",
+          "kind": "trailer",
+          "model": "Volvo FH"
+        },
+        "driver": {
+          "name": "Hasan Demov"
+        },
+        "valid_to": "2026-12-20",
+        "files": [
+          "scan2.pdf"
+        ],
+        "issuer": "Test agentligi"
+      },
+      {
+        "id": "L27",
+        "series": "EF",
+        "number": "000027",
+        "owner": {
+          "name": "Namuna Trans 27",
+          "address": null
+        },
+        "vehicle": {
+          "plate": "01 H 127 AA",
+          "kind": "trailer",
+          "model": "Schmitz"
+        },
+        "driver": {
+          "name": "Ilhom Kodov"
+        },
+        "valid_to": "2027-02-23",
+        "files": [],
+        "issuer": "Test agentligi"
+      },
+      {
+        "id": "L28",
+        "series": "AB",
+        "number": "000028",
+        "owner": {
+          "name": "Namuna Trans 28",
+          "address": null
+        },
+        "vehicle": {
+          "plate": "01 I 128 AA",
+          "kind": "power",
+          "model": "Schmitz"
+        },
+        "driver": {
+          "name": "Jasur Fiktivov"
+        },
+        "valid_to": "2027-02-10",
+        "files": [
+          "scan2.pdf"
+        ],
+        "issuer": "Test agentligi"
+      },
+      {
+        "id": "L29",
+        "series": "EF",
+        "number": "000029",
+        "owner": {
+          "name": "Namuna Trans 29",
+          "address": "Toshkent"
+        },
+        "vehicle": {
+          "plate": "01 J 129 AA",
+          "kind": "power",
+          "model": "MAN TGX"
+        },
+        "driver": {
+          "name": "Karim Soxtaev"
+        },
+        "valid_to": "2026-10-02",
+        "files": [],
+        "issuer": "Test agentligi"
+      },
+      {
+        "id": "L30",
+        "series": "AB",
+        "number": "000030",
+        "owner": {
+          "name": "Namuna Trans 30",
+          "address": "Samarqand"
+        },
+        "vehicle": {
+          "plate": "01 K 130 AA",
+          "kind": "trailer",
+          "model": "MAN TGX"
+        },
+        "driver": null,
+        "valid_to": "2026-02-23",
+        "files": [],
+        "issuer": "Test agentligi"
+      },
+      {
+        "id": "L31",
+        "series": "AB",
+        "number": "000031",
+        "owner": {
+          "name": "Namuna Trans 31",
+          "address": "Samarqand"
+        },
+        "vehicle": {
+          "plate": "01 L 131 AA",
+          "kind": "power",
+          "model": "Schmitz"
+        },
+        "driver": {
+          "name": "Bobur Namunaev"
+        },
+        "valid_to": "2026-01-03",
+        "files": [],
+        "issuer": "Test agentligi"
+      },
+      {
+        "id": "L32",
+        "series": "EF",
+        "number": "000032",
+        "owner": {
+          "name": "Namuna Trans 32",
+          "address": "Buxoro"
+        },
+        "vehicle": {
+          "plate": "01 M 132 AA",
+          "kind": "power",
+          "model": "Schmitz"
+        },
+        "driver": {
+          "name": "Davron Sinov"
+        },
+        "valid_to": "2026-02-22",
+        "files": null,
+        "issuer": "Test agentligi"
+      },
+      {
+        "id": "L33",
+        "series": "EF",
+        "number": "000033",
+        "owner": {
+          "name": "Namuna Trans 33",
+          "address": null
+        },
+        "vehicle": {
+          "plate": "01 N 133 AA",
+          "kind": "power",
+          "model": "MAN TGX"
+        },
+        "driver": {
+          "name": "Eldor Misolov"
+        },
+        "valid_to": "2027-02-07",
+        "files": [
+          "scan1.pdf"
+        ],
+        "issuer": "Test agentligi"
+      },
+      {
+        "id": "L34",
+        "series": "AB",
+        "number": "000034",
+        "owner": {
+          "name": "Namuna Trans 34",
+          "address": "Toshkent"
+        },
+        "vehicle": {
+          "plate": "01 O 134 AA",
+          "kind": "trailer",
+          "model": "Volvo FH"
+        },
+        "driver": {
+          "name": "Farhod Probov"
+        },
+        "valid_to": "2026-01-04",
+        "files": [
+          "scan1.pdf"
+        ],
+        "issuer": "Test agentligi"
+      },
+      {
+        "id": "L35",
+        "series": "EF",
+        "number": "000035",
+        "owner": {
+          "name": "Namuna Trans 35",
+          "address": "Samarqand"
+        },
+        "vehicle": {
+          "plate": "01 P 135 AA",
+          "kind": "trailer",
+          "model": "Volvo FH"
+        },
+        "driver": null,
+        "valid_to": "2027-01-11",
+        "files": [
+          "scan2.pdf",
+          "scan1.pdf",
+          "stamp.png"
+        ],
+        "issuer": "Test agentligi"
+      },
+      {
+        "id": "L36",
+        "series": "CD",
+        "number": "000036",
+        "owner": {
+          "name": "Namuna Trans 36",
+          "address": "Toshkent"
+        },
+        "vehicle": {
+          "plate": "01 Q 136 AA",
+          "kind": "trailer",
+          "model": "Volvo FH"
+        },
+        "driver": {
+          "name": "Hasan Demov"
+        },
+        "valid_to": null,
+        "files": [
+          "scan2.pdf",
+          "scan1.pdf",
+          "stamp.png"
+        ]
+      },
+      {
+        "id": "L37",
+        "series": "CD",
+        "number": "000037",
+        "owner": {
+          "name": "Namuna Trans 37",
+          "address": "Toshkent"
+        },
+        "vehicle": {
+          "plate": "01 R 137 AA",
+          "kind": "trailer",
+          "model": "Volvo FH"
+        },
+        "driver": {
+          "name": "Ilhom Kodov"
+        },
+        "valid_to": "2026-01-23",
+        "files": [],
+        "issuer": "Test agentligi"
+      },
+      {
+        "id": "L38",
+        "series": "EF",
+        "number": "000038",
+        "owner": {
+          "name": "Namuna Trans 38",
+          "address": "Samarqand"
+        },
+        "vehicle": {
+          "plate": "01 S 138 AA",
+          "kind": "power",
+          "model": "Schmitz"
+        },
+        "driver": {
+          "name": "Jasur Fiktivov"
+        },
+        "valid_to": "2026-09-27",
+        "files": [
+          "scan1.pdf",
+          "scan2.pdf"
+        ],
+        "issuer": "Test agentligi"
+      },
+      {
+        "id": "L39",
+        "series": "EF",
+        "number": "000039",
+        "owner": {
+          "name": "Namuna Trans 39",
+          "address": "Samarqand"
+        },
+        "vehicle": {
+          "plate": "01 T 139 AA",
+          "kind": "trailer",
+          "model": "MAN TGX"
+        },
+        "driver": {
+          "name": "Karim Soxtaev"
+        },
+        "valid_to": "2026-01-01",
+        "files": [
+          "scan2.pdf",
+          "scan1.pdf"
+        ],
+        "issuer": "Test agentligi"
+      },
+      {
+        "id": "L40",
+        "series": "EF",
+        "number": "000040",
+        "owner": {
+          "name": "Namuna Trans 40",
+          "address": "Samarqand"
+        },
+        "vehicle": {
+          "plate": "01 A 140 AA",
+          "kind": "trailer",
+          "model": "Schmitz"
+        },
+        "driver": null,
+        "valid_to": "2026-08-12",
+        "files": [
+          "stamp.png",
+          "scan1.pdf"
+        ],
+        "issuer": "Test agentligi"
+      },
+      {
+        "id": "L41",
+        "series": "AB",
+        "number": "000041",
+        "owner": {
+          "name": "Namuna Trans 41",
+          "address": "Samarqand"
+        },
+        "vehicle": {
+          "plate": "01 B 141 AA",
+          "kind": "trailer",
+          "model": "MAN TGX"
+        },
+        "driver": {
+          "name": "Bobur Namunaev"
+        },
+        "valid_to": "2026-05-04",
+        "files": [],
+        "issuer": "Test agentligi"
+      },
+      {
+        "id": "L42",
+        "series": "EF",
+        "number": "000042",
+        "owner": {
+          "name": "Namuna Trans 42",
+          "address": "Toshkent"
+        },
+        "vehicle": {
+          "plate": "01 C 142 AA",
+          "kind": "trailer",
+          "model": "Volvo FH"
+        },
+        "driver": {
+          "name": "Davron Sinov"
+        },
+        "valid_to": "2026-08-04",
+        "files": [
+          "scan2.pdf",
+          "scan1.pdf",
+          "stamp.png"
+        ],
+        "issuer": "Test agentligi"
+      },
+      {
+        "id": "L43",
+        "series": "AB",
+        "number": "000043",
+        "owner": {
+          "name": "Namuna Trans 43",
+          "address": "Buxoro"
+        },
+        "vehicle": {
+          "plate": "01 D 143 AA",
+          "kind": "power",
+          "model": "Volvo FH"
+        },
+        "driver": {
+          "name": "Eldor Misolov"
+        },
+        "valid_to": "2026-11-09",
+        "files": [
+          "stamp.png",
+          "scan1.pdf",
+          "scan2.pdf"
+        ],
+        "issuer": "Test agentligi"
+      },
+      {
+        "id": "L44",
+        "series": "AB",
+        "number": "000044",
+        "owner": {
+          "name": "Namuna Trans 44",
+          "address": null
+        },
+        "vehicle": {
+          "plate": "01 E 144 AA",
+          "kind": "power",
+          "model": "Schmitz"
+        },
+        "driver": {
+          "name": "Farhod Probov"
+        },
+        "valid_to": "2026-11-20",
+        "files": [],
+        "issuer": "Test agentligi"
+      },
+      {
+        "id": "L45",
+        "series": "EF",
+        "number": "000045",
+        "owner": {
+          "name": "Namuna Trans 45",
+          "address": "Buxoro"
+        },
+        "vehicle": {
+          "plate": "01 F 145 AA",
+          "kind": "power",
+          "model": "Volvo FH"
+        },
+        "driver": null,
+        "valid_to": "2026-06-22",
+        "files": [
+          "scan1.pdf",
+          "scan2.pdf"
+        ],
+        "issuer": "Test agentligi"
+      }
+    ]
+  }
+}
