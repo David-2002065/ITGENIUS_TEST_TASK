@@ -30,6 +30,8 @@ export const NAV_GROUPS: { label: string; items: NavItem[] }[] = [
 
 export const NAV_ITEMS = NAV_GROUPS.flatMap((g) => g.items);
 
+console.log(NAV_ITEMS, 'NAV_ITEMS')
+
 export interface NavBadges {
   /** Neutral total count. */
   total: Record<string, number>;
